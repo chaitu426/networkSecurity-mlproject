@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: networkSecurity
+Version: 0.0.1
+Author: chaitu
+Author-email: chaitanyaabhade426@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
