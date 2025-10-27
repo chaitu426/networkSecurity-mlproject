@@ -12,5 +12,7 @@ dagshub
 fastapi
 unicorn
 fastapi[standard]
+bs4
+whois
 
 #-e .
