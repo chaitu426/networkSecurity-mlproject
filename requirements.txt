@@ -1,3 +1,5 @@
+dill
+pyaml
 python-dotenv
 pandas
 numpy
