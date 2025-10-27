@@ -7,5 +7,10 @@ pymongo[srv]
 pymongo
 certifi
 scikit-learn
+mlflow
+dagshub
+fastapi
+unicorn
+fastapi[standard]
 
 #-e .
